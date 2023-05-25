@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+
+ul {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
